@@ -5,7 +5,9 @@ This repository documents the design and evaluation of a high-fidelity tri-mode 
 
 
 
-<video src="https://github.com/user-attachments/assets/d86d677f-6a97-4e2f-b168-3dc96ac75fd9" width="600" controls></video>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/d86d677f-6a97-4e2f-b168-3dc96ac75fd9" width="600" controls></video>
+</p>
 
 The versatility of the system is derived from a flexible signal routing architecture. By utilizing specific input processing and amplification stages, the device can be reconfigured to prioritize either spatial stereo separation or maximum monophonic power delivery through bridge-tied load (BTL) operation.
 
