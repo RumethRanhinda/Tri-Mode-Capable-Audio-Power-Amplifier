@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/cd964494-37aa-40e7-9e8e-9144cc1b5858
+
 # Tri-mode Capable Audio Power Amplifier
 
 ## Overview
